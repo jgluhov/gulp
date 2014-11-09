@@ -1,6 +1,6 @@
 {
-  "name": "lab2",
-  "version": "1.0.0",
+  "name": "gulpApp",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
